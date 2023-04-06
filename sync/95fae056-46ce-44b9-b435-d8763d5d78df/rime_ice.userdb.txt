@@ -1,0 +1,22 @@
+# Rime user dictionary
+#@/db_name	rime_ice.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	16
+#@/user_id	95fae056-46ce-44b9-b435-d8763d5d78df
+ce shi yi xia 	测试一下	c=1 d=0.980199 t=16
+de 	的	c=1 d=0.99005 t=16
+fang an 	方案	c=1 d=0.951229 t=16
+ge 	哥	c=1 d=1 t=13
+ha ha ha ha 	哈哈哈哈	c=1 d=1 t=16
+hao ba 	好吧	c=1 d=0.995012 t=16
+hao xiang mei shen me 	好像没什么	c=1 d=1 t=16
+he 	和	c=1 d=0.960789 t=16
+ji chu 	基础	c=1 d=0.985112 t=16
+le 	了	c=1 d=1 t=15
+qu bie 	区别	c=1 d=0.965605 t=16
+shuang pin 	双拼	c=1 d=0.946485 t=16
+tui you xi 	退游戏	c=1 d=1 t=14
+xiao he 	小鹤	c=1 d=0.955997 t=16
+you shen me qi guai 	有什么奇怪	c=1 d=0.97531 t=16
+zhen de 	真的	c=1 d=0.970446 t=16
